@@ -1,0 +1,26 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* gpsmap_street
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0-20250909\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-18 14:14+0000\n"
+"PO-Revision-Date: 2026-10-18 14:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: gpsmap_street
+#: model:ir.ui.menu,name:gpsmap_street.menu_gpsmap_streetonline
+msgid "Online Street"
+msgstr "Calle en linea"
+
+#. module: gpsmap_street
+#: model:ir.actions.client,name:gpsmap_street.action_gpsmap_street
+msgid "Street Online"
+msgstr "Calle en linea"
